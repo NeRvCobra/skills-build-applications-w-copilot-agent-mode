@@ -131,3 +131,5 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 CORS_ALLOW_ALL_ORIGINS = True
 ALLOWED_HOSTS = ["*"]
+
+ALLOWED_HOSTS += ['zany-space-goggles-449w7rxwwprh76jg-8000.app.github.dev', 'localhost']
